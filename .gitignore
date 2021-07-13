@@ -1,0 +1,13 @@
+.DS_Store
+Thumb.db
+
+.idea
+*.sublime*
+.vscode
+
+*.log*
+node_modules/
+
+#Собранные файлы
+public/bundle.js
+public/bundle.map.js
